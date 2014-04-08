@@ -1,0 +1,13 @@
+public class Calc{
+
+    //read input as String, with scanner
+
+    //if input is +, -, *, / or any other operation(pop twice, calc, and push)
+
+    //otherwise push
+
+    //use Double.parseDouble(_+
+
+    //    or Integer.parseInt()
+
+    //to convert crap
